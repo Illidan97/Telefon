@@ -1,0 +1,6 @@
+G:\STUDIA\Rok II\Programowanie Obiektowe\Ćwiczenia\8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\STUDIA\Rok II\Programowanie Obiektowe\Ćwiczenia\8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\STUDIA\Rok II\Programowanie Obiektowe\Ćwiczenia\8\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\STUDIA\Rok II\Programowanie Obiektowe\Ćwiczenia\8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\STUDIA\Rok II\Programowanie Obiektowe\Ćwiczenia\8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\STUDIA\Rok II\Programowanie Obiektowe\Ćwiczenia\8\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
